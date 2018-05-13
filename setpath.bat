@@ -1,0 +1,1 @@
+set path=%path%;D:\Anaconda;D:\Anaconda3\Scripts
